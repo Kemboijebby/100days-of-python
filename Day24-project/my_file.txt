@@ -1,0 +1,4 @@
+Hello, my name is Kemboi,
+I'm 20 years old,
+I'm a junior data scientist,
+I'm a python programmer too.
